@@ -66,7 +66,7 @@ function init() {
   const $info = document.getElementById('info');
   const $timestamp = document.getElementById('timestamp');
   map.data.loadGeoJson('demo.geojson');
-  map.data.loadGeoJson('TheIon-GroundFloorTest-01-FRST.geojson');
+  map.data.loadGeoJson('thelon.geojson');
 
   let watchId = trackLocation({
     onSuccess: ({ coords: { latitude: lat, longitude: lng, altitude: alt}, timestamp: time }) => {
