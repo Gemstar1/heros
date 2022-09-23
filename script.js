@@ -69,7 +69,7 @@ function init() {
   map.data.loadGeoJson('thelon.geojson');
 
   let watchId = trackLocation({
-    onSuccess: ({ coords: { latitude: lat, longitude: lng, altitude: alt}, timestamp: time }) => {
+    onSuccess: ({ coords: { latitude: lat, longitude: lng, altitude: alt}}) => {
       marker.setPosition({ lat, lng });
       map.panTo({ lat, lng });
       if (time > 14000000000000) { time = Math.floor(time / 1000); }
@@ -77,7 +77,6 @@ function init() {
       timenow = Date.now();
       console.log(timenow)
       $info.textContent = `Lat: ${lat.toFixed(7)} Lng: ${lng.toFixed(7)} Alt: ${alt.toFixed(5)}m `;
-      $timestamp.textContent = `Time: ${timenow}`;
       $info.classList.remove('error');
     },
     onError: err => {
