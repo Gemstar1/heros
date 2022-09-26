@@ -15,6 +15,10 @@ TX22002MainStreet4201_TheIon.pdf
 TX77002MainStreet4201_TheIon_1.dwg
 TX77002MainStreet4201_TheIon_1.geojson
 
+theIon.geojson file uploaded Monday, September 26th is not projected, whereas
+theIon.geojson file uploaded Thursday, September 22nd, 2022 is projected -- on the WGS 1984 Coordinate System
+Use the most recent theIon.geojson for stairwell Alt testing for FRST Challenge.
+
 This software is compatible with the Windows 10 operating system on a Panasonic Toughbook laptop computer. 
 
 INDOOR GEOLOCATION TRACKING FEATURE: To access the indoor geolocation tracking feature independently of the UI/UX, go to: https://rescunomics.github.io/heros 
