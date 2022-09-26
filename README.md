@@ -38,7 +38,4 @@ Do not share or distribute without permission.
 Source code property of Rescunomics LLC.
 Contact CEO: emmanuel@rescunomics.com
 Contact CTO: ezra@architectingio.com, ezra@rescunomics.com
-
 The files in this directory were compiled by Architecting I/O for Rescunomics LLC.
-OUTSTANDING BALANCE: $37,890 OWED TO ARCHITECTING I/O LLC
-& UNRESOLVED SITUATION WITH OLUWASEUN KOLAWOLE. WARNING.
