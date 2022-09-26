@@ -37,5 +37,4 @@ Google Maps Developers tools were used to arrive at this solution, which tested 
 Do not share or distribute without permission. 
 Source code property of Rescunomics LLC.
 Contact CEO: emmanuel@rescunomics.com
-Contact CTO: ezra@architectingio.com, ezra@rescunomics.com
 The files in this directory were compiled by Architecting I/O for Rescunomics LLC.
