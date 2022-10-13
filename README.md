@@ -19,7 +19,7 @@ Use the most recent theIon.geojson for stairwell Alt testing for FRST Challenge.
 
 This software is compatible with the Windows 10 operating system on a Panasonic Toughbook laptop computer. 
 
-INDOOR GEOLOCATION TRACKING FEATURE: To access the indoor geolocation tracking feature independently of the UI/UX, go to: https://rescunomics.github.io/heros 
+INDOOR GEOLOCATION TRACKING FEATURE: To access the indoor geolocation tracking feature independently of the UI/UX, go to:  https://gemstar1.github.io/heros/
 
 The indoor geolocation tracking feature was compiled by Architecting I/O's Ryan Leach (@leachandryan on GitHub) to display a smartphone user's Lat Lng Alt (x, y, z) location in the bottom left hand corner of the screen. The z-values are in meters and are not a reflection of elevation nor height above terrain, but show a change in value between floors as you move up/down the storys of a building. For instance: 
 -Going from floor 1 to floor 2 in a building whose ceilings are 7m (or 21' tall), will show a change in Alt values of +7m. Our z-values are accurate to within <1m. 
